@@ -22,7 +22,5 @@ for i in range(0, 101):
     # starts from 7 ends at 10
     worksheet2.write(i, 7, SEsample)
     worksheet2.write(i, 8, SEsamples)
-##  worksheet2.write(i, 9, SEsampleminus)
-##  worksheet2.write(i, 10, SEerror)
     
 workbook.close()
